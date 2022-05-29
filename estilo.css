@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    background: darkgrey;
+}
+body{
+    height: 750px;
+    width: 750px;
+    background-color: firebrick;
+    margin: auto;
+}
+header{
+    height: 250px;
+    background: cornflowerblue;
+    text-align: center;
+}
+nav{
+    height: 50px;
+    background:coral ;
+    text-align: center;
+}
+section{
+    height: 400px;
+    width: 750px;
+    background: cornflowerblue;
+    text-align: center;
+}
+article{
+    width: 400px;
+    height: 250px;
+    background: chartreuse;
+    float:right;
+    margin: 50px;
+    text-align: center;
+}
+aside{
+    height: 400px;
+    width: 250px;
+    background:cyan;
+    float:right;
+    text-align: center;
+}
+
+footer{
+    height: 50px;
+    background: darkorange;
+    text-align: center;
+}
